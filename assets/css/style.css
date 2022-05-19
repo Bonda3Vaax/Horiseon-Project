@@ -1,29 +1,30 @@
+/* This selects all elemnts */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
-
+/* Element selector body sets the background-color to #d9dcd6 */
 body {
     background-color: #d9dcd6;
 }
-
+/* Class selector .header aspect*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/* Class selector .header h1 aspect */
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
-
+/* Class selector .header h1 .seo aspect */
 .header h1 .seo {
     color: #e7e79a;
 }
-
+/* Class selector .header nav aspect */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -40,24 +41,24 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
-
+/* Element selector a aspect */
 a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/* Element selector p aspect */
 p {
     font-size: 20px;
     color: #ffffff;
     text-align: center;
 }
-
+/* Element selector h2 aspect */
 h2 {
     text-align: center;
 }
-
+/* Element selector h3 aspect */
 h3 {font-size: 25px;}
-
+/* Class selector .hero aspect */
 .hero {
     height: 800px;
     width: 50;
@@ -66,23 +67,23 @@ h3 {font-size: 25px;}
     background-size: cover;
     background-position: center;
 }
-
+/* Class selector .float-left aspect */
 .float-left {
     float: left;
     margin-right: 65px;
 }
-
+/* Class selector ..float-right aspect */
 .float-right {
     float: right;
     margin-left: 65px;
 }
-
+/* Class selector .content aspect */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-
+/* Class selector .benefits aspect */
 .benefits {
     margin-right: 20px;
     margin-top: 25px;
@@ -94,27 +95,27 @@ h3 {font-size: 25px;}
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
 }
-
+/* Class selector .benefit-lead, .benefit-brand, .benefit-lead aspect */
 .benefit-lead, .benefit-brand, .benefit-lead
     {
     margin-bottom: 32px;
     color: #ffffff;
     }
-
+/* Class selector .benefit-lead h3, .benefit-brand h3, .benefit-cost h3  aspect */
 .benefit-lead h3, .benefit-brand h3, .benefit-cost h3 
     {
     margin-bottom: 10px;
     text-align: center;
     color: #ffffff;
     }
-
+/* Class selector .benefit-lead img, .benefit-brand img, .benefit-cost img aspect */
 .benefit-lead img, .benefit-brand img, .benefit-cost img
     {
     display: block;
     margin: 10px auto;
     max-width: 150px;
     }
-
+/* Class selector .search-engine-optimization, .online-reputation-management, .social-media-marketing aspect */
  .search-engine-optimization, .online-reputation-management, .social-media-marketing
     {
     margin-bottom: 50px;
@@ -136,7 +137,7 @@ h3 {font-size: 25px;}
     margin-bottom: 20px;
     font-size: 36px;
     }
-
+/* Class selector footer aspect */
 .footer {
     padding: 30px;
     clear: both;
