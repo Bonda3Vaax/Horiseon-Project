@@ -52,8 +52,8 @@ Horiseon-Project requires Visual Studio Code and Chrome Browser in this case, to
 
 ## How to use
 
-Open Visual Studio, click Explorer, add folder to workspace for code inspection, additional modifications, debugging, and visualization in default browser.
-Open index.html in default browser for visualization and inspection by pressing the F12 key.
+ - Open Visual Studio, click Explorer, add folder to workspace for code inspection, additional modifications, debugging, and visualization in default browser.
+ - Open index.html in default browser for visualization and inspection by pressing the F12 key.
 
 ## Project Status
 
