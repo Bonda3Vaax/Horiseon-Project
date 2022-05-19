@@ -62,7 +62,8 @@ Horiseon-Project requires Visual Studio Code and Chrome Browser in this case, to
 
 To be reviewd by the Centralised Grading Team. 
 
-### Faq
+
+## Faq
 
 Q: How do I access Horiseon-Project?
 
